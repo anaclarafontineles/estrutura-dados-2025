@@ -1,0 +1,5 @@
+br\sp\gov\fatecipi\bd\PessoaDAO.class
+br\sp\gov\fatecipi\bd\Pessoa.class
+br\sp\gov\fatecipi\bd\ConnectionFactory.class
+br\sp\gov\fatecipi\bd\resources\application.properties
+br\sp\gov\fatecipi\bd\Main.class
